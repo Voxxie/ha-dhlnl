@@ -1,0 +1,8 @@
+{
+    "application_username": {
+        "description": "MyDHL Username."
+    },
+    "application_password": {
+        "description": "MyDHL Password."
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "domain": "dhl-nl",
+    "name": "DHL - NL",
+    "codeowners": ["@voxxie"],
+    "config_flow": true,
+    "dependencies": ["application_credentials"],
+    "documentation": "https://github.com/Voxxie/ha-dhlnl",
+    "integration_type": "hub",
+    "iot_class": "cloud_polling",
+    "issue_tracker": "https://github.com/Voxxie/ha-dhlnl/issues",
+    "requirements": ["gql"],
+    "version": "0.0.1"
+  }
