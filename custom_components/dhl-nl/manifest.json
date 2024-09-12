@@ -1,5 +1,5 @@
 {
-    "domain": "dhl-nl",
+    "domain": "dhlnl",
     "name": "DHL - NL",
     "codeowners": ["@voxxie"],
     "config_flow": true,
